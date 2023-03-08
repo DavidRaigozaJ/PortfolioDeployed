@@ -28,7 +28,9 @@ const Projects = () => {
                     <h3>CasaNFT</h3>
                     <img src={CasaNFT} alt="CasaMedellinNFT Landing Page" />
                     <p>Coming soon...!
-                        A RealState Marketplace for foreighners that wants to buy realsate in Medellin using Cryptocurrency.
+                    "Discover a new way to invest in Medellin's real estate market with our innovative platform. Buy properties using NFTs and cryptocurrency, making the process fast, secure, 
+                    and transparent. As a foreigner, 
+                    you can now access exclusive properties without any hassle. Join our real estate marketplace today and start investing in Medellin's thriving market!"
                     </p>
 
                     <a href="#" target="_blank" className="button">Site</a>
